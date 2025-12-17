@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 :-)<br>📚 Currently learning Node.js<br>📫 Drop a mail at <a href="mailto:sahil.satyaprakash007@gmail.com">sahil.satyaprakash007@gmail.com</a></p>
+<p align="left">✨ Creating bugs since 2021 :-)<br>📚 Currently learning Node.js<br>📫 Drop a mail at <a href="mailto:sahilsatyaprakash03@gmail.com">sahilsatyaprakash03@gmail.com</a></p>
 
 ###
 
