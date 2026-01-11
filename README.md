@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi! I'm Satyaprakash
 ✨ Creating bugs since 2021 :-)<br>📚 Currently learning Node.js<br>📫 Drop a mail at sahilsatyaprakash03@gmail.com<br>🌐 Vist my <a href="https://myportfolio-03.vercel.app" target="_blank" >Portfolio</a>
 
 
